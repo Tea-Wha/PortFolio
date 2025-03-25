@@ -4,18 +4,7 @@ function App(): JSX.Element {
   return (
     <div className="App">
       <header className="App-header">
-        <img className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.tsx</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
+        <div>안녕하세요, 신입 개발자 홍태화입니다.</div>
       </header>
     </div>
   );
